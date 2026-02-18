@@ -76,4 +76,4 @@ Submit this repository link or the zipped project folder along with the screensh
 ## Live App link 
    https://electron-antigravity-kit--sakshikumari920.replit.app
 
-##  Build with love with help of CipherSchool
+##  Built with love with help of CipherSchools
