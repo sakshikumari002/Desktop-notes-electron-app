@@ -28,8 +28,8 @@ It uses **ElectronJS** for the runtime and **Antigravity** for project structuri
 
 1.  **Clone the repository** (if you haven't already):
     ```bash
-    git clone <repository-url>
-    cd <project-folder>
+    git clone <workshop-repo-link>
+    cd <repo-folder>
     ```
 
 2.  **Install Dependencies**:
