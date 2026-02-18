@@ -68,6 +68,12 @@ To build the executable installer for Windows:
 ## Submission
 
 Submit this repository link or the zipped project folder along with the screenshot of the running application.
+(https://github.com/user-attachments/assets/0d295e8d-b7ae-4495-a609-d5b773e37b47)
+(https://github.com/user-attachments/assets/997e519c-96c4-4182-b90f-b1874400c27c)
+(https://github.com/user-attachments/assets/1a8aa735-78fc-4b2c-b9b9-75865379c8e0)
+(https://github.com/user-attachments/assets/5c68954d-4fcc-4a32-adbf-e956a8b392b1)
 
+## Live App link 
+   https://electron-antigravity-kit--sakshikumari920.replit.app
 
 ##  Build with love with help of CipherSchool
